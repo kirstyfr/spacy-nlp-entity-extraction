@@ -1,0 +1,644 @@
+article,entity,start,end,highest_ratio,best_match_annotation_article,best_match_annotation_entity,best_match_similarity_ratio,best_match_annotation_start,best_match_annotation_end,Model,Article Count
+23261677,skn,357,360,100,23261677,skn,100,357,360,en_ner_jnlpba_md,1000
+23271000,superoxide dismutase,1333,1353,67,23271000,superoxide,67,1333,1343,en_ner_jnlpba_md,1000
+23180160,on123300,404,412,100,23180160,on123300,100,404,412,en_ner_jnlpba_md,1000
+23323627,γ cd oei ss fa gene,1177,1196,85,23323627,γ cd oei ss fa,85,1177,1191,en_ner_jnlpba_md,1000
+23394205,az20,408,412,100,23394205,az20,100,408,412,en_ner_jnlpba_md,1000
+23116642,superoxide dismutase,763,783,67,23116642,superoxide,67,763,773,en_ner_jnlpba_md,1000
+23099431,ghrp 6,0,6,100,23099431,ghrp 6,100,0,6,en_ner_jnlpba_md,1000
+23560542,c8 linked guanine adduct,38,62,45,23560542,guanine,45,48,55,en_ner_jnlpba_md,1000
+23640662,zno films,271,280,50,23640662,zno,50,271,274,en_ner_jnlpba_md,1000
+23220400,mdcpg,939,944,100,23220400,mdcpg,100,939,944,en_ner_jnlpba_md,1000
+23009351,plu 14 paa 0 75 epi,412,433,27,23009351,paa,27,420,423,en_ner_jnlpba_md,1000
+23455461,ag,52,54,100,23455461,ag,100,52,54,en_ner_jnlpba_md,1000
+23639875,pge2 receptors,697,711,44,23639875,pge2,44,697,701,en_ner_jnlpba_md,1000
+23432591,atp synthase,38,50,40,23432591,atp,40,38,41,en_ner_jnlpba_md,1000
+23584554,c terminus,914,924,18,23584554,c,18,914,915,en_ner_jnlpba_md,1000
+23159663,acv,573,576,100,23159663,acv,100,573,576,en_ner_jnlpba_md,1000
+23545134,cpf,1518,1521,100,23545134,cpf,100,1518,1521,en_ner_jnlpba_md,1000
+23263985,methyl cpg sites,1093,1109,32,23263985,cpg,32,1100,1103,en_ner_jnlpba_md,1000
+23454202,superoxide dismutase,773,793,67,23454202,superoxide,67,773,783,en_ner_jnlpba_md,1000
+23637063,dirty si,73,81,27,23637063,silicon,27,70,77,en_ner_jnlpba_md,1000
+23289972,his 440,1210,1217,60,23289972,his,60,1210,1213,en_ner_jnlpba_md,1000
+23200245,lys16 ala21,550,561,43,23200245,lys,43,550,553,en_ner_jnlpba_md,1000
+23537500,nmda receptors,856,870,44,23537500,nmda,44,856,860,en_ner_jnlpba_md,1000
+23116965,l type ca 2 currents,988,1010,40,23116965,ca 2 ,40,995,1001,en_ner_jnlpba_md,1000
+23289972,tyr 464,1201,1208,60,23289972,tyr,60,1201,1204,en_ner_jnlpba_md,1000
+23205561,zno nr,749,755,67,23205561,zno,67,749,752,en_ner_jnlpba_md,1000
+23540839,pr,717,719,18,23540839,pepstatin,18,707,716,en_ner_jnlpba_md,1000
+23561073,rac,762,765,100,23561073,rac,100,762,765,en_ner_jnlpba_md,1000
+22533633,compounds 3 5 dihydroxy 3 4 5 7 tetramethoxy flavone 2 ,124,183,87,22533633,3 5 dihydroxy 3 4 5 7 tetramethoxy flavone,87,134,179,en_ner_jnlpba_md,1000
+22902329,effectors adenylyl cyclase,1171,1197,47,22902329,adenylyl,47,1181,1189,en_ner_jnlpba_md,1000
+23603382,mda,643,646,100,23603382,mda,100,643,646,en_ner_jnlpba_md,1000
+23561216,ssl,241,244,100,23561216,ssl,100,241,244,en_ner_jnlpba_md,1000
+23220400,mdcpg,1872,1877,100,23220400,mdcpg,100,1872,1877,en_ner_jnlpba_md,1000
+23591845,bat477 p,244,252,22,23591845,p,22,251,252,en_ner_jnlpba_md,1000
+22607101,l dopa,1628,1634,100,22607101,l dopa,100,1628,1634,en_ner_jnlpba_md,1000
+23017395,hmg coa reductase,816,833,58,23017395,hmg coa,58,816,823,en_ner_jnlpba_md,1000
+23376438,α zol,630,635,100,23376438,α zol,100,630,635,en_ner_jnlpba_md,1000
+23454202,catalase,1063,1071,18,23454202,gsh,18,1058,1061,en_ner_jnlpba_md,1000
+23479733,lnb thiazoline,1657,1671,83,23479733,thiazoline,83,1661,1671,en_ner_jnlpba_md,1000
+23223517,apap,1567,1571,100,23223517,apap,100,1567,1571,en_ner_jnlpba_md,1000
+23174754,androgen receptor,1096,1113,64,23174754,androgen,64,1096,1104,en_ner_jnlpba_md,1000
+23263985,cpg sites,542,551,50,23263985,cpg,50,542,545,en_ner_jnlpba_md,1000
+23129213,crizotinib enzyme,423,440,74,23129213,crizotinib,74,423,433,en_ner_jnlpba_md,1000
+23111283,tsn,296,299,100,23111283,tsn,100,296,299,en_ner_jnlpba_md,1000
+22294440,ni 2 ,1096,1101,100,22294440,ni 2 ,100,1096,1102,en_ner_jnlpba_md,1000
+23643094,ndga,1094,1098,100,23643094,ndga,100,1094,1098,en_ner_jnlpba_md,1000
+23252447,hexa peri hexabenzocoronene hbc ,89,122,92,23252447,hexa peri hexabenzocoronene,92,89,116,en_ner_jnlpba_md,1000
+23347038,m6p mannose 6 phosphate igf2r,4,35,79,23347038,mannose 6 phosphate,79,9,28,en_ner_jnlpba_md,1000
+23500779,bde 47,1073,1079,100,23500779,bde 47,100,1073,1079,en_ner_jnlpba_md,1000
+23229324,go fc composite,686,701,50,23229324,go fc,50,686,691,en_ner_jnlpba_md,1000
+23261677,nec 1,1097,1102,100,23261677,nec 1,100,1097,1102,en_ner_jnlpba_md,1000
+23123646,adp atp,197,204,60,23123646,adp,60,197,200,en_ner_jnlpba_md,1000
+23425332,rh6g,676,680,100,23425332,rh6g,100,676,680,en_ner_jnlpba_md,1000
+23411313,monomeric anthocyanin ma ,333,359,61,23411313,anthocyanin,61,343,354,en_ner_jnlpba_md,1000
+23074026,estrogen receptor,1156,1173,64,23074026,estrogen,64,1156,1164,en_ner_jnlpba_md,1000
+23065140,nmda,1511,1515,100,23065140,nmda,100,1511,1515,en_ner_jnlpba_md,1000
+23597210,perchlorinated c4 species,822,847,81,23597210,perchlorinated c4,81,822,839,en_ner_jnlpba_md,1000
+23454149,dmbt,1023,1027,100,23454149,dmbt,100,1023,1027,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,1236,1253,11,23479733,n,11,1242,1243,en_ner_jnlpba_md,1000
+23148920,h 2 s,437,442,100,23148920,h 2 s,100,437,442,en_ner_jnlpba_md,1000
+23425332,fa rh6g 1 hnss,1090,1104,78,23425332,fa rh6g 1,78,1090,1099,en_ner_jnlpba_md,1000
+23396144,cfe,827,830,33,23396144,cls,33,835,838,en_ner_jnlpba_md,1000
+23597210,c2h2,327,331,100,23597210,c2h2,100,327,331,en_ner_jnlpba_md,1000
+23435674,ptcda,992,997,100,23435674,ptcda,100,992,997,en_ner_jnlpba_md,1000
+23362116,type i,34,40,32,23362116,retinoic acid,32,24,37,en_ner_jnlpba_md,1000
+23625947,nhp5g,139,144,100,23625947,nhp5g,100,139,144,en_ner_jnlpba_md,1000
+23208951,pva hydrogels,1154,1167,38,23208951,pva,38,1154,1157,en_ner_jnlpba_md,1000
+23529650,ag,1439,1441,100,23529650,ag,100,1439,1441,en_ner_jnlpba_md,1000
+23361947,phosphatidylinositol 4 5 bisphosphate,322,361,100,23361947,phosphatidylinositol 4 5 bisphosphate,100,322,361,en_ner_jnlpba_md,1000
+23200245,phe19,939,944,75,23200245,phe,75,939,942,en_ner_jnlpba_md,1000
+23537500,nmda receptors,0,14,44,23537500,nmda,44,0,4,en_ner_jnlpba_md,1000
+23560542,ota,699,702,100,23560542,ota,100,699,702,en_ner_jnlpba_md,1000
+22173956,iq,1031,1033,33,22173956,phip,33,1037,1041,en_ner_jnlpba_md,1000
+23545134,cpf,1204,1207,100,23545134,cpf,100,1204,1207,en_ner_jnlpba_md,1000
+23426869,acetyllysine residues,81,102,73,23426869,acetyllysine,73,81,93,en_ner_jnlpba_md,1000
+23460404,ni nta dg,665,674,100,23460404,ni nta dg,100,665,674,en_ner_jnlpba_md,1000
+23376120,inducible nitric oxide synthase,620,651,56,23376120,nitric oxide,56,630,642,en_ner_jnlpba_md,1000
+23289972,tyr 473,1106,1113,60,23289972,tyr,60,1106,1109,en_ner_jnlpba_md,1000
+23090712,glutamate synthase,705,723,67,23090712,glutamate,67,705,714,en_ner_jnlpba_md,1000
+23581876,ryanodine receptor,101,119,67,23581876,ryanodine,67,101,110,en_ner_jnlpba_md,1000
+23470196,carboxy methyl chitosan,233,256,76,23470196,carboxy methyl,76,233,247,en_ner_jnlpba_md,1000
+23122138,cyanogen bromide,430,446,100,23122138,cyanogen bromide,100,430,446,en_ner_jnlpba_md,1000
+23530057,tyr 319,903,910,60,23530057,tyr,60,903,906,en_ner_jnlpba_md,1000
+23267661,tac,1166,1169,100,23267661,tac,100,1166,1169,en_ner_jnlpba_md,1000
+23500779,bde 47,808,814,100,23500779,bde 47,100,808,814,en_ner_jnlpba_md,1000
+23616470,relative 13 c,662,677,56,23616470, 13 c,56,671,677,en_ner_jnlpba_md,1000
+23519149,kahalalide f family,84,103,77,23519149,kahalalide f,77,84,96,en_ner_jnlpba_md,1000
+23623842,glutathione reductase,1017,1038,69,23623842,glutathione,69,1017,1028,en_ner_jnlpba_md,1000
+23347038,m6p igf2r,1222,1231,50,23347038,m6p,50,1222,1225,en_ner_jnlpba_md,1000
+23111283,tsn,890,893,100,23111283,tsn,100,890,893,en_ner_jnlpba_md,1000
+22400809,engeletin,418,427,100,22400809,engeletin,100,418,427,en_ner_jnlpba_md,1000
+23597210,c2cl2,877,882,100,23597210,c2cl2,100,877,882,en_ner_jnlpba_md,1000
+23220587,raldh retinal complex,1402,1423,50,23220587,retinal,50,1408,1415,en_ner_jnlpba_md,1000
+23142710,superoxide dismutase,909,929,67,23142710,superoxide,67,909,919,en_ner_jnlpba_md,1000
+23549423,carbon polymers,213,228,57,23549423,carbon,57,213,219,en_ner_jnlpba_md,1000
+23625947,nmda receptors,0,14,44,23625947,nmda,44,0,4,en_ner_jnlpba_md,1000
+23065140,nmda,1386,1390,100,23065140,nmda,100,1386,1390,en_ner_jnlpba_md,1000
+23396144,cls,835,838,100,23396144,cls,100,835,838,en_ner_jnlpba_md,1000
+23296568,c₆₀,243,246,100,23296568,c₆₀,100,243,246,en_ner_jnlpba_md,1000
+23313663,benzo α pyrene,536,550,100,23313663,benzo α pyrene,100,536,550,en_ner_jnlpba_md,1000
+23454149,dmbt,501,505,100,23454149,dmbt,100,501,505,en_ner_jnlpba_md,1000
+23581876,pcbs,160,164,100,23581876,pcbs,100,160,164,en_ner_jnlpba_md,1000
+22173956,iq,508,510,33,22173956,phip,33,515,519,en_ner_jnlpba_md,1000
+23579428,guanosine monophosphate cgmp ,312,342,78,23579428,cyclic guanosine monophosphate,78,305,335,en_ner_jnlpba_md,1000
+23391424,ppt,628,631,100,23391424,ppt,100,628,631,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,1639,1653,100,23416700,angiotensin iv,100,1639,1653,en_ner_jnlpba_md,1000
+23609961,2 aminoimidazolone products,344,371,80,23609961,2 aminoimidazolone,80,344,362,en_ner_jnlpba_md,1000
+23391424,ppt,1274,1277,100,23391424,ppt,100,1274,1277,en_ner_jnlpba_md,1000
+22902329,somatostatin receptors,1044,1066,71,22902329,somatostatin,71,1044,1056,en_ner_jnlpba_md,1000
+23611691,n n dimethylamino tail,465,487,87,23611691,n n dimethylamino,87,465,482,en_ner_jnlpba_md,1000
+23212442,cd 2 ,904,909,100,23212442,cd 2 ,100,904,910,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,192,206,100,23416700,angiotensin iv,100,192,206,en_ner_jnlpba_md,1000
+23218602,prostaglandin e synthase,64,88,77,23218602,prostaglandin e,77,64,79,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,593,607,100,23416700,angiotensin iv,100,593,607,en_ner_jnlpba_md,1000
+23523101,hscs,354,358,50,23523101,hsya,50,346,350,en_ner_jnlpba_md,1000
+23396144,cls,1028,1031,100,23396144,cls,100,1028,1031,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,337,354,11,23479733,n,11,343,344,en_ner_jnlpba_md,1000
+23457122,estrogen receptor,503,520,64,23457122,estrogen,64,503,511,en_ner_jnlpba_md,1000
+23518471,atp synthase,1558,1570,40,23518471,atp,40,1558,1561,en_ner_jnlpba_md,1000
+23180160,on123x,176,182,100,23180160,on123x,100,176,182,en_ner_jnlpba_md,1000
+23391424,ppt,353,356,100,23391424,ppt,100,353,356,en_ner_jnlpba_md,1000
+23253260,mycotoxin deoxynivalenol,220,244,74,23253260,deoxynivalenol,74,230,244,en_ner_jnlpba_md,1000
+23177786,tazp probe,413,423,57,23177786,tazp,57,413,417,en_ner_jnlpba_md,1000
+23000076,δ 9 tetrahydrocannabinol,427,452,100,23000076,δ 9 tetrahydrocannabinol,100,427,452,en_ner_jnlpba_md,1000
+23579428,guanylyl cyclase,282,298,67,23579428,guanylyl,67,282,290,en_ner_jnlpba_md,1000
+23420583,al p and,471,480,40,23420583,al,40,471,473,en_ner_jnlpba_md,1000
+23419834,hemin,1428,1433,100,23419834,hemin,100,1428,1433,en_ner_jnlpba_md,1000
+23414837,c6 amido and benzimidazole dihydropyrazolopyrimidines,21,74,97,23414837,amido and benzimidazole dihydropyrazolopyrimidines,97,24,74,en_ner_jnlpba_md,1000
+22727823,gaba,1114,1118,100,22727823,gaba,100,1114,1118,en_ner_jnlpba_md,1000
+23616470, 13 c naphthalene,281,299,100,23616470, 13 c naphthalene,100,281,299,en_ner_jnlpba_md,1000
+23435674,ptcda molecules,264,279,50,23435674,ptcda,50,264,269,en_ner_jnlpba_md,1000
+23419834,ho 1,1437,1441,22,23419834,hemin,22,1428,1433,en_ner_jnlpba_md,1000
+23194508,tin,219,222,43,23194508,tin dioxide,43,219,230,en_ner_jnlpba_md,1000
+23122096,polyunsaturated fatty acid chains,594,627,88,23122096,polyunsaturated fatty acid,88,594,620,en_ner_jnlpba_md,1000
+23562928,pgd2,408,412,100,23562928,pgd2,100,408,412,en_ner_jnlpba_md,1000
+23629669,magnetite hydroxyapatite composite,63,97,58,23629669,hydroxyapatite,58,73,87,en_ner_jnlpba_md,1000
+23562928,pgd2,206,210,100,23562928,pgd2,100,206,210,en_ner_jnlpba_md,1000
+23637074,c60,511,514,100,23637074,c60,100,511,514,en_ner_jnlpba_md,1000
+23643702,6 keto pgf1α,974,986,100,23643702,6 keto pgf1α,100,974,986,en_ner_jnlpba_md,1000
+23540813,peg chains,962,972,46,23540813,peg,46,962,965,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,539,556,11,23479733,n,11,545,546,en_ner_jnlpba_md,1000
+23494186,statins,164,171,14,23494186,hmg coa,14,173,180,en_ner_jnlpba_md,1000
+23339967,kanamycin b,838,849,100,23339967,kanamycin b,100,838,849,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,940,957,11,23479733,n,11,946,947,en_ner_jnlpba_md,1000
+23639360,superoxide dismutase,1425,1445,67,23639360,superoxide,67,1425,1435,en_ner_jnlpba_md,1000
+23624852,ap 5,831,835,100,23624852,ap 5,100,831,835,en_ner_jnlpba_md,1000
+23109293,nitrate reductase,931,948,58,23109293,nitrate,58,931,938,en_ner_jnlpba_md,1000
+23552261,ni,808,810,100,23552261,ni,100,808,810,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,0,14,100,23416700,angiotensin iv,100,0,14,en_ner_jnlpba_md,1000
+23451853,si sample,270,279,36,23451853,si,36,270,272,en_ner_jnlpba_md,1000
+23410798,1 2 3 4 tetrahydroquinazolin,598,626,100,23410798,1 2 3 4 tetrahydroquinazolin,100,598,626,en_ner_jnlpba_md,1000
+23395916,steroid hormone receptors,0,25,75,23395916,steroid hormone,75,0,15,en_ner_jnlpba_md,1000
+23611476,peg,1310,1313,100,23611476,peg,100,1310,1313,en_ner_jnlpba_md,1000
+23444300,znp unit,1082,1090,55,23444300,znp,55,1082,1085,en_ner_jnlpba_md,1000
+23354531,nmda,1344,1348,100,23354531,nmda,100,1344,1348,en_ner_jnlpba_md,1000
+23400747,lex,857,860,100,23400747,lex,100,857,860,en_ner_jnlpba_md,1000
+23404064,dopamine receptor,527,544,64,23404064,dopamine,64,527,535,en_ner_jnlpba_md,1000
+23519881,fatty acid synthase,1303,1322,69,23519881,fatty acid,69,1303,1313,en_ner_jnlpba_md,1000
+23220749,serotonin,1246,1255,100,23220749,serotonin,100,1246,1255,en_ner_jnlpba_md,1000
+23631402,li2se,1411,1416,100,23631402,li2se,100,1411,1416,en_ner_jnlpba_md,1000
+23417972,basno3 cells,223,235,67,23417972,basno3,67,223,229,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,1456,1470,100,23416700,angiotensin iv,100,1456,1470,en_ner_jnlpba_md,1000
+23171137,acetyl coa,486,496,100,23171137,acetyl coa,100,486,496,en_ner_jnlpba_md,1000
+23127917,superoxide dismutase,980,1000,67,23127917,superoxide,67,980,990,en_ner_jnlpba_md,1000
+23066091,n terminus,254,264,18,23066091,n,18,254,255,en_ner_jnlpba_md,1000
+23239555,ras proteins,0,12,35,23239555,boron,35,0,5,en_ner_jnlpba_md,1000
+23624148,sciadopitysin,434,447,100,23624148,sciadopitysin,100,434,447,en_ner_jnlpba_md,1000
+23396144,cfe,1174,1177,33,23396144,cls,33,1182,1185,en_ner_jnlpba_md,1000
+23545134,cpf,899,902,100,23545134,cpf,100,899,902,en_ner_jnlpba_md,1000
+23623842,glutathione reductase,437,458,69,23623842,glutathione,69,437,448,en_ner_jnlpba_md,1000
+23323627,folate receptor,108,123,57,23323627,folate,57,108,114,en_ner_jnlpba_md,1000
+23444300,znp unit,214,222,55,23444300,znp,55,214,217,en_ner_jnlpba_md,1000
+23410153,serine threonine kinase,1036,1059,56,23410153,threonine,56,1043,1052,en_ner_jnlpba_md,1000
+23266123,isoprenoid tail,646,661,80,23266123,isoprenoid,80,646,656,en_ner_jnlpba_md,1000
+23631402,li2se,1072,1077,100,23631402,li2se,100,1072,1077,en_ner_jnlpba_md,1000
+23643754,dorsal raphe,97,109,42,23643754,escitalopram,42,102,114,en_ner_jnlpba_md,1000
+23494186,hmg coa reductase,173,190,58,23494186,hmg coa,58,173,180,en_ner_jnlpba_md,1000
+23148988,folate receptor,628,643,57,23148988,folate,57,628,634,en_ner_jnlpba_md,1000
+23432591,atp synthase,922,934,40,23432591,atp,40,922,925,en_ner_jnlpba_md,1000
+23327759,marphenols c f,84,98,100,23327759,marphenols c f,100,84,98,en_ner_jnlpba_md,1000
+23470204,ag,581,583,100,23470204,ag,100,581,583,en_ner_jnlpba_md,1000
+23376438, e 1 3 4 dihydroxyphenethyl 3 4 hydroxystyryl urea,1243,1297,100,23376438, e 1 3 4 dihydroxyphenethyl 3 4 hydroxystyryl urea,100,1243,1297,en_ner_jnlpba_md,1000
+23282222,ag,1029,1031,100,23282222,ag,100,1029,1031,en_ner_jnlpba_md,1000
+23271732,c terminus,1621,1631,18,23271732,c,18,1621,1622,en_ner_jnlpba_md,1000
+23178655,β napdh,771,778,100,23178655,β napdh,100,771,778,en_ner_jnlpba_md,1000
+23109293,nitrite reductase,679,696,58,23109293,nitrite,58,679,686,en_ner_jnlpba_md,1000
+23171137,ε nitrogen,808,818,100,23171137,ε nitrogen,100,808,818,en_ner_jnlpba_md,1000
+23219524,tm4 cysteine mutants,897,917,57,23219524,cysteine,57,901,909,en_ner_jnlpba_md,1000
+23194530,tap,636,639,100,23194530,tap,100,636,639,en_ner_jnlpba_md,1000
+23160931,adjacent tih 2 fragment,1514,1538,41,23160931,tih 2 ,41,1523,1529,en_ner_jnlpba_md,1000
+23411304,alkyl pyrazines,1419,1434,100,23411304,alkyl pyrazines,100,1419,1434,en_ner_jnlpba_md,1000
+23411285,lactose,98,105,100,23411285,lactose,100,98,105,en_ner_jnlpba_md,1000
+23454149,dmbt,713,717,100,23454149,dmbt,100,713,717,en_ner_jnlpba_md,1000
+23229135,copper,50,56,100,23229135,copper,100,50,56,en_ner_jnlpba_md,1000
+23129213,multiple tyrosine kinases,64,89,48,23129213,tyrosine,48,73,81,en_ner_jnlpba_md,1000
+23085120,pser473 akt,1031,1042,53,23085120,pser,53,1031,1035,en_ner_jnlpba_md,1000
+23454149,dmbt,912,916,100,23454149,dmbt,100,912,916,en_ner_jnlpba_md,1000
+23313796,trans ε viniferin 3 ,798,819,92,23313796,trans ε viniferin,92,798,815,en_ner_jnlpba_md,1000
+23229135,copper,1500,1506,100,23229135,copper,100,1500,1506,en_ner_jnlpba_md,1000
+23411243,flavan 3 ol,626,637,100,23411243,flavan 3 ol,100,626,637,en_ner_jnlpba_md,1000
+23208951,pva,670,673,100,23208951,pva,100,670,673,en_ner_jnlpba_md,1000
+23357360,pc,1379,1381,33,23357360,β cd,33,1370,1374,en_ner_jnlpba_md,1000
+23396144,cls,1182,1185,100,23396144,cls,100,1182,1185,en_ner_jnlpba_md,1000
+23643702,txb2,751,755,100,23643702,txb2,100,751,755,en_ner_jnlpba_md,1000
+23323861,7 3 di γ γ dimethylallyloxy 5 hydroxy 4 methoxyflavone 1 ,37,99,97,23323861,7 3 di γ γ dimethylallyloxy 5 hydroxy 4 methoxyflavone,97,37,95,en_ner_jnlpba_md,1000
+23066091,adenylyl cyclase,1023,1039,67,23066091,adenylyl,67,1023,1031,en_ner_jnlpba_md,1000
+23292791,peg,163,166,100,23292791,peg,100,163,166,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,1742,1759,11,23479733,n,11,1748,1749,en_ner_jnlpba_md,1000
+23410221,bche,1202,1206,29,23410221,ser,29,1210,1213,en_ner_jnlpba_md,1000
+23194530,chloramphenicol,363,378,100,23194530,chloramphenicol,100,363,378,en_ner_jnlpba_md,1000
+23521216,baeckein e 1 ,80,94,87,23521216,baeckein e,87,80,90,en_ner_jnlpba_md,1000
+23376438,α zol,336,341,100,23376438,α zol,100,336,341,en_ner_jnlpba_md,1000
+22340730,oncogenic phosphoinositide 3 kinase,1186,1221,63,22340730,phosphoinositide,63,1196,1212,en_ner_jnlpba_md,1000
+23126604,pf127 pei fa pp123,457,475,80,23126604,pf127 pei fa,80,457,469,en_ner_jnlpba_md,1000
+23630169,c60,394,397,100,23630169,c60,100,394,397,en_ner_jnlpba_md,1000
+22902329,somatostatin receptor,917,938,73,22902329,somatostatin,73,917,929,en_ner_jnlpba_md,1000
+23391424,ppt,975,978,100,23391424,ppt,100,975,978,en_ner_jnlpba_md,1000
+23334083,hydroxyapatite,426,440,100,23334083,hydroxyapatite,100,426,440,en_ner_jnlpba_md,1000
+23074026,thyroid hormone receptor,695,719,77,23074026,thyroid hormone,77,695,710,en_ner_jnlpba_md,1000
+23180160,on123xx,446,453,100,23180160,on123xx,100,446,453,en_ner_jnlpba_md,1000
+23017387,quinone reductase,576,593,58,23017387,quinone,58,576,583,en_ner_jnlpba_md,1000
+23328125,tyr moieties,238,250,40,23328125,tyr,40,238,241,en_ner_jnlpba_md,1000
+23145773,estrogen receptors,572,590,62,23145773,estrogen,62,572,580,en_ner_jnlpba_md,1000
+23171137,levulinyl coa,469,482,100,23171137,levulinyl coa,100,469,482,en_ner_jnlpba_md,1000
+23537600,mc yr,123,128,100,23537600,mc yr,100,123,128,en_ner_jnlpba_md,1000
+23471540,zfps,32,36,29,23471540,his,29,35,38,en_ner_jnlpba_md,1000
+23376438,α zol,477,482,100,23376438,α zol,100,477,482,en_ner_jnlpba_md,1000
+23444300,corrole unit,744,756,74,23444300,corrole,74,744,751,en_ner_jnlpba_md,1000
+23266728,r13,1173,1176,25,23266728,rhein,25,1164,1169,en_ner_jnlpba_md,1000
+23017387,glutathione reductase,812,833,69,23017387,glutathione,69,812,823,en_ner_jnlpba_md,1000
+23116642,nitric oxide synthase,1093,1114,73,23116642,nitric oxide,73,1093,1105,en_ner_jnlpba_md,1000
+23420583,al,813,815,100,23420583,al,100,813,815,en_ner_jnlpba_md,1000
+23354531,nmda receptor,1530,1543,47,23354531,nmda,47,1530,1534,en_ner_jnlpba_md,1000
+23479733,glcnac sugar ring,1574,1591,45,23479733,sugar,45,1581,1586,en_ner_jnlpba_md,1000
+23208951,pva,820,823,100,23208951,pva,100,820,823,en_ner_jnlpba_md,1000
+23608635,o methyl,326,334,100,23608635,o methyl,100,326,334,en_ner_jnlpba_md,1000
+23611691,n n dimethylamino tail,608,630,87,23611691,n n dimethylamino,87,608,625,en_ner_jnlpba_md,1000
+23639362,mptp,1346,1350,100,23639362,mptp,100,1346,1350,en_ner_jnlpba_md,1000
+23411207,inducible nitric oxide synthase,713,744,56,23411207,nitric oxide,56,723,735,en_ner_jnlpba_md,1000
+23624148,sciadopitysin,248,261,100,23624148,sciadopitysin,100,248,261,en_ner_jnlpba_md,1000
+23411256,glu36,322,327,75,23411256,glu,75,322,325,en_ner_jnlpba_md,1000
+23066089,tyrosine kinase,1151,1166,70,23066089,tyrosine,70,1151,1159,en_ner_jnlpba_md,1000
+23194530,thiamphenicol,320,333,100,23194530,thiamphenicol,100,320,333,en_ner_jnlpba_md,1000
+23127917,nitric oxide synthase,1097,1118,73,23127917,nitric oxide,73,1097,1109,en_ner_jnlpba_md,1000
+23448346,er,19,21,40,23448346,estrogen,40,19,27,en_ner_jnlpba_md,1000
+23163768,receptor tyrosine kinases,620,645,48,23163768,tyrosine,48,629,637,en_ner_jnlpba_md,1000
+23640662,zno,55,58,100,23640662,zno,100,55,58,en_ner_jnlpba_md,1000
+23500779,bde 47,978,984,100,23500779,bde 47,100,978,984,en_ner_jnlpba_md,1000
+23444300,c c,240,243,100,23444300,c c,100,240,243,en_ner_jnlpba_md,1000
+22727823,gaba,219,223,100,22727823,gaba,100,219,223,en_ner_jnlpba_md,1000
+23471540,129 zinc finger,360,375,42,23471540,zinc,42,364,368,en_ner_jnlpba_md,1000
+23515494,methamphetamine ma ,50,70,88,23515494,methamphetamine,88,50,65,en_ner_jnlpba_md,1000
+23262164,dcx,723,726,100,23262164,dcx,100,723,726,en_ner_jnlpba_md,1000
+22370641,ecf,1177,1180,33,22370641,epi,33,1182,1185,en_ner_jnlpba_md,1000
+23454149,dmbt,729,733,100,23454149,dmbt,100,729,733,en_ner_jnlpba_md,1000
+23262164,cs peg biotin ncs,211,228,52,23262164,biotin,52,218,224,en_ner_jnlpba_md,1000
+22317828,bilirubin,1549,1558,100,22317828,bilirubin,100,1549,1558,en_ner_jnlpba_md,1000
+23605692,estrogen receptor,943,960,64,23605692,estrogen,64,943,951,en_ner_jnlpba_md,1000
+23360430,bisphenol a,0,11,100,23360430,bisphenol a,100,0,11,en_ner_jnlpba_md,1000
+23395916,androgen receptor,1161,1178,64,23395916,androgen,64,1161,1169,en_ner_jnlpba_md,1000
+23631402,sesx carbon,312,323,53,23631402,sesx,53,312,316,en_ner_jnlpba_md,1000
+23444300,nie unit,612,620,55,23444300,nie,55,612,615,en_ner_jnlpba_md,1000
+23459149,melamine uric acid complexes,1011,1039,49,23459149,uric acid,49,1020,1029,en_ner_jnlpba_md,1000
+23594303,vcm,627,630,100,23594303,vcm,100,627,630,en_ner_jnlpba_md,1000
+23044488,hubche,692,698,20,23044488,acyl,20,700,704,en_ner_jnlpba_md,1000
+23202249,androgen receptor,779,796,64,23202249,androgen,64,779,787,en_ner_jnlpba_md,1000
+23537600,mc lr,113,118,80,23537600,mc rr,80,106,111,en_ner_jnlpba_md,1000
+23065140,nmda receptor,783,796,47,23065140,nmda,47,783,787,en_ner_jnlpba_md,1000
+23449200,tri o methyl β cyclodextrin,233,260,100,23449200,tri o methyl β cyclodextrin,100,233,260,en_ner_jnlpba_md,1000
+23561073,rac,536,539,100,23561073,rac,100,536,539,en_ner_jnlpba_md,1000
+23246471,peg b pcl,1137,1146,100,23246471,peg b pcl,100,1137,1146,en_ner_jnlpba_md,1000
+23436571,peg dot,685,692,60,23436571,peg,60,685,688,en_ner_jnlpba_md,1000
+23177786,jasmonate glucoside probe,239,264,86,23177786,jasmonate glucoside,86,239,258,en_ner_jnlpba_md,1000
+23584554,n terminus,882,892,18,23584554,n,18,882,883,en_ner_jnlpba_md,1000
+23523831,superoxide dismutase,853,873,67,23523831,superoxide,67,853,863,en_ner_jnlpba_md,1000
+23414099,dopc liposomes,42,56,44,23414099,dopc,44,42,46,en_ner_jnlpba_md,1000
+23090712,nitrate reductase,1142,1159,58,23090712,nitrate,58,1142,1149,en_ner_jnlpba_md,1000
+22918703,phospho akt,1258,1269,78,22918703,phospho,78,1258,1265,en_ner_jnlpba_md,1000
+23399882,imidazoline receptors,1276,1297,69,23399882,imidazoline,69,1276,1287,en_ner_jnlpba_md,1000
+23639360,nitric oxide synthase,1637,1658,73,23639360,nitric oxide,73,1637,1649,en_ner_jnlpba_md,1000
+23289972,his,1133,1136,100,23289972,his,100,1133,1136,en_ner_jnlpba_md,1000
+23352908,pfc5,446,450,100,23352908,pfc5,100,446,450,en_ner_jnlpba_md,1000
+23428346,3 nitrotyrosine,1625,1640,100,23428346,3 nitrotyrosine,100,1625,1640,en_ner_jnlpba_md,1000
+23432591,atp synthase,418,430,40,23432591,atp,40,418,421,en_ner_jnlpba_md,1000
+23540813,plla molecules,1036,1050,44,23540813,plla,44,1036,1040,en_ner_jnlpba_md,1000
+23220105,hexpla implants,361,376,57,23220105,hexpla,57,361,367,en_ner_jnlpba_md,1000
+23524315,t 2 toxin,638,647,100,23524315,t 2 toxin,100,638,647,en_ner_jnlpba_md,1000
+23605692,progesterone receptor,1840,1861,73,23605692,progesterone,73,1840,1852,en_ner_jnlpba_md,1000
+23292791,ngo peg pei,933,944,43,23292791,peg,43,937,940,en_ner_jnlpba_md,1000
+23417652,pcbs,1332,1336,100,23417652,pcbs,100,1332,1336,en_ner_jnlpba_md,1000
+23540839,pr,515,517,18,23540839,pepstatin,18,505,514,en_ner_jnlpba_md,1000
+23086899, pt,63,66,22,23086899,zro 2 ,22,56,62,en_ner_jnlpba_md,1000
+23631402,li2sen,1104,1110,100,23631402,li2sen,100,1104,1110,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,819,833,100,23416700,angiotensin iv,100,819,833,en_ner_jnlpba_md,1000
+23524315,t 2 toxin,311,320,100,23524315,t 2 toxin,100,311,320,en_ner_jnlpba_md,1000
+23511023,benzofurano 3 2 d pyrimidine 2 one hits,73,112,93,23511023,benzofurano 3 2 d pyrimidine 2 one,93,73,107,en_ner_jnlpba_md,1000
+23597210,c4,1273,1275,100,23597210,c4,100,1273,1275,en_ner_jnlpba_md,1000
+23416700,angiotensin iv receptor,1256,1279,76,23416700,angiotensin iv,76,1256,1270,en_ner_jnlpba_md,1000
+23597210,odd carbon species,712,730,50,23597210,carbon,50,716,722,en_ner_jnlpba_md,1000
+23111283,tsn,205,208,100,23111283,tsn,100,205,208,en_ner_jnlpba_md,1000
+22417089,optivanin,139,148,100,22417089,optivanin,100,139,148,en_ner_jnlpba_md,1000
+23444300,znp moieties,928,940,40,23444300,znp,40,928,931,en_ner_jnlpba_md,1000
+23296568,c₆₀ molecules,383,396,38,23296568,c₆₀,38,383,386,en_ner_jnlpba_md,1000
+23416700,angiotensin iv receptors,436,460,74,23416700,angiotensin iv,74,436,450,en_ner_jnlpba_md,1000
+23229509,multiple adenylyl cyclases,14,40,47,23229509,adenylyl,47,23,31,en_ner_jnlpba_md,1000
+23292791,ngo peg pei,615,626,43,23292791,peg,43,619,622,en_ner_jnlpba_md,1000
+23643754,pfc,611,614,25,23643754,escit,25,618,623,en_ner_jnlpba_md,1000
+23208951,pva,1301,1304,100,23208951,pva,100,1301,1304,en_ner_jnlpba_md,1000
+23440918,ser13,45,50,75,23440918,ser,75,45,48,en_ner_jnlpba_md,1000
+23267661,tac,1355,1358,100,23267661,tac,100,1355,1358,en_ner_jnlpba_md,1000
+23200245,phe19,919,924,75,23200245,phe,75,919,922,en_ner_jnlpba_md,1000
+23391424,ppt,1182,1185,100,23391424,ppt,100,1182,1185,en_ner_jnlpba_md,1000
+23218715,b raf,48,53,15,23218715,4 aminothienopyridines,15,38,60,en_ner_jnlpba_md,1000
+23444300,meso substituted a3 b porphyrin,400,431,100,23444300,meso substituted a3 b porphyrin,100,400,431,en_ner_jnlpba_md,1000
+23142710, nadph oxidase,1331,1346,53,23142710,nadph,53,1332,1337,en_ner_jnlpba_md,1000
+23425332,dox molecules,1215,1228,38,23425332,dox,38,1215,1218,en_ner_jnlpba_md,1000
+23223191,coooh,675,680,100,23223191,coooh,100,675,680,en_ner_jnlpba_md,1000
+23483103,ruthenium ii,5,17,96,23483103,ruthenium ii ,96,5,18,en_ner_jnlpba_md,1000
+22926699,aryl hydrocarbon receptor,1041,1066,78,22926699,aryl hydrocarbon,78,1041,1057,en_ner_jnlpba_md,1000
+23420583,al p and o,1341,1352,18,23420583,p,18,1345,1346,en_ner_jnlpba_md,1000
+23631402,li ses7 cells,1396,1409,47,23631402,ses7,47,1399,1403,en_ner_jnlpba_md,1000
+23549423,p25,1062,1065,29,23549423,tio2,29,1056,1060,en_ner_jnlpba_md,1000
+23611476,polyethylene glycol,1197,1216,100,23611476,polyethylene glycol,100,1197,1216,en_ner_jnlpba_md,1000
+23428346,nadph oxidase,1945,1958,56,23428346,nadph,56,1945,1950,en_ner_jnlpba_md,1000
+23233535,n terminus,716,726,18,23233535,n,18,716,717,en_ner_jnlpba_md,1000
+23420583,si,918,920,100,23420583,si,100,918,920,en_ner_jnlpba_md,1000
+22933114,nad p h,894,901,100,22933114,nad p h,100,894,901,en_ner_jnlpba_md,1000
+23333577,phosphoinositide 3 kinase,860,885,78,23333577,phosphoinositide,78,860,876,en_ner_jnlpba_md,1000
+23299190,superoxide dismutase,535,555,67,23299190,superoxide,67,535,545,en_ner_jnlpba_md,1000
+23631389,ca4,730,733,100,23631389,ca4,100,730,733,en_ner_jnlpba_md,1000
+23261677,tnfα,1106,1110,22,23261677,nec 1,22,1097,1102,en_ner_jnlpba_md,1000
+23208951,pva,243,246,100,23208951,pva,100,243,246,en_ner_jnlpba_md,1000
+23521216,6 methylquercetin,169,186,100,23521216,6 methylquercetin,100,169,186,en_ner_jnlpba_md,1000
+23178655,nad p h oxidase,1435,1450,64,23178655,nad p h,64,1435,1442,en_ner_jnlpba_md,1000
+23455461,ag,852,854,100,23455461,ag,100,852,854,en_ner_jnlpba_md,1000
+23292791,ngo peg pei,1022,1033,43,23292791,pei,43,1030,1033,en_ner_jnlpba_md,1000
+23127917,angiotensin ii,839,853,100,23127917,angiotensin ii,100,839,853,en_ner_jnlpba_md,1000
+23262164,dcx,868,871,100,23262164,dcx,100,868,871,en_ner_jnlpba_md,1000
+23503470,tio2,159,163,100,23503470,tio2,100,159,163,en_ner_jnlpba_md,1000
+23631389,cmp l ca4,925,934,100,23631389,cmp l ca4,100,925,934,en_ner_jnlpba_md,1000
+23560542,ota,501,504,100,23560542,ota,100,501,504,en_ner_jnlpba_md,1000
+23588391,l diphenylalanine nanotubes,588,615,77,23588391,l diphenylalanine,77,588,605,en_ner_jnlpba_md,1000
+23410161,thiazolidinedione moiety,712,736,83,23410161,thiazolidinedione,83,712,729,en_ner_jnlpba_md,1000
+23519077,hec1,1427,1431,20,23519077,serine,20,1435,1441,en_ner_jnlpba_md,1000
+23567961,pdgfr tyrosine kinases,9,31,53,23567961,tyrosine,53,15,23,en_ner_jnlpba_md,1000
+23178652,phospho akt,833,844,78,23178652,phospho,78,833,840,en_ner_jnlpba_md,1000
+23291560,progesterone receptor,1014,1035,73,23291560,progesterone,73,1014,1026,en_ner_jnlpba_md,1000
+23417972,basno3 cells,523,535,67,23417972,basno3,67,523,529,en_ner_jnlpba_md,1000
+23639875,cox 2 pge2,1347,1357,57,23639875,pge2,57,1353,1357,en_ner_jnlpba_md,1000
+23343976,3 hydroxy 3 methylglutaryl coenzyme a reductase,1045,1092,88,23343976,3 hydroxy 3 methylglutaryl coenzyme a,88,1045,1082,en_ner_jnlpba_md,1000
+23323627,γ cd oei ss fa polymer,727,749,78,23323627,γ cd oei ss fa,78,727,741,en_ner_jnlpba_md,1000
+23631389,cmp,547,550,100,23631389,cmp,100,547,550,en_ner_jnlpba_md,1000
+23537600,mc lr,788,793,100,23537600,mc lr,100,788,793,en_ner_jnlpba_md,1000
+23396144,cfe,1021,1024,33,23396144,cls,33,1028,1031,en_ner_jnlpba_md,1000
+23267661,tac,704,707,100,23267661,tac,100,704,707,en_ner_jnlpba_md,1000
+23560542,c c,657,660,100,23560542,c c,100,657,660,en_ner_jnlpba_md,1000
+23148920,inositol 1 4 5 triphosphate receptor,849,885,86,23148920,inositol 1 4 5 triphosphate,86,849,876,en_ner_jnlpba_md,1000
+23631402,secondary lithium cells,417,440,47,23631402,lithium,47,427,434,en_ner_jnlpba_md,1000
+23623842,superoxide dismutase,354,374,67,23623842,superoxide,67,354,364,en_ner_jnlpba_md,1000
+23354531,nmda,185,189,100,23354531,nmda,100,185,189,en_ner_jnlpba_md,1000
+23253260,tbto,713,717,100,23253260,tbto,100,713,717,en_ner_jnlpba_md,1000
+23416700,angiotensin iv,1563,1577,100,23416700,angiotensin iv,100,1563,1577,en_ner_jnlpba_md,1000
+23376120,phosphatidylinositol 3 kinase,835,864,82,23376120,phosphatidylinositol,82,835,855,en_ner_jnlpba_md,1000
+23625947,nhp5g,926,931,100,23625947,nhp5g,100,926,931,en_ner_jnlpba_md,1000
+23444300,1 3 phenylene bridge,182,202,79,23444300,1 3 phenylene,79,182,195,en_ner_jnlpba_md,1000
+23116642,bilirubin,522,531,100,23116642,bilirubin,100,522,531,en_ner_jnlpba_md,1000
+23454149,dmbt,1150,1154,100,23454149,dmbt,100,1150,1154,en_ner_jnlpba_md,1000
+23368853,mno2,9,13,57,23368853,zno,57,13,16,en_ner_jnlpba_md,1000
+23529650,ag,367,369,100,23529650,ag,100,367,369,en_ner_jnlpba_md,1000
+23391424,ppd,361,364,67,23391424,ppt,67,353,356,en_ner_jnlpba_md,1000
+23411264,trypsin,149,156,100,23411264,trypsin,100,149,156,en_ner_jnlpba_md,1000
+22659088,mglur1 and 5,42,54,11,22659088,calcium,11,39,46,en_ner_jnlpba_md,1000
+23289972,his 449 ser 289,1115,1131,33,23289972,ser,33,1124,1127,en_ner_jnlpba_md,1000
+23631402,li2s,1421,1425,89,23631402,li2se,89,1411,1416,en_ner_jnlpba_md,1000
+23246471,bcl 2,490,495,15,23246471,gossypol,15,480,488,en_ner_jnlpba_md,1000
+23219887,phe170,1575,1581,67,23219887,phe,67,1575,1578,en_ner_jnlpba_md,1000
+23584554,n terminus,1113,1123,18,23584554,n,18,1113,1114,en_ner_jnlpba_md,1000
+23623842,cypermethrin,835,847,100,23623842,cypermethrin,100,835,847,en_ner_jnlpba_md,1000
+23540839,pepstatin bound pr,869,887,67,23540839,pepstatin,67,869,878,en_ner_jnlpba_md,1000
+23537600,mc yr,1006,1011,100,23537600,mc yr,100,1006,1011,en_ner_jnlpba_md,1000
+23500536,l amino acid oxidase,1515,1535,75,23500536,l amino acid,75,1515,1527,en_ner_jnlpba_md,1000
+23597210,odd carbon products,450,469,48,23597210,carbon,48,454,460,en_ner_jnlpba_md,1000
+23347038,m6p igf2r,360,369,50,23347038,m6p,50,360,363,en_ner_jnlpba_md,1000
+23448281,anps,33,37,100,23448281,anps,100,33,37,en_ner_jnlpba_md,1000
+23292791,ngo peg pei,430,441,43,23292791,pei,43,438,441,en_ner_jnlpba_md,1000
+23111283,tsn,1023,1026,100,23111283,tsn,100,1023,1026,en_ner_jnlpba_md,1000
+23597210,c3,699,701,100,23597210,c3,100,699,701,en_ner_jnlpba_md,1000
+23396144,nitric oxide synthase,744,765,73,23396144,nitric oxide,73,744,756,en_ner_jnlpba_md,1000
+23560542,o5 h n3,861,871,25,23560542,h,25,865,866,en_ner_jnlpba_md,1000
+23194824,nitric oxide synthase,938,959,73,23194824,nitric oxide,73,938,950,en_ner_jnlpba_md,1000
+23353656,pestaloficiols q,44,60,80,23353656,pestaloficiols q 1 and r,80,44,70,en_ner_jnlpba_md,1000
+23352908,pfc5,288,292,100,23352908,pfc5,100,288,292,en_ner_jnlpba_md,1000
+23330546,androstane receptor,132,151,69,23330546,androstane,69,132,142,en_ner_jnlpba_md,1000
+23425332,fa rh6g 1 complex,724,741,69,23425332,fa rh6g 1,69,724,733,en_ner_jnlpba_md,1000
+23444300,zn porphyrin unit,1147,1164,69,23444300,porphyrin,69,1150,1159,en_ner_jnlpba_md,1000
+23624852,nmda,879,883,100,23624852,nmda,100,879,883,en_ner_jnlpba_md,1000
+23206862,npy y5 receptor,30,45,14,23206862,benzimidazole,14,26,39,en_ner_jnlpba_md,1000
+23347953,dopamine receptor,316,333,64,23347953,dopamine,64,316,324,en_ner_jnlpba_md,1000
+23109293,bisphenol a,0,11,100,23109293,bisphenol a,100,0,11,en_ner_jnlpba_md,1000
+23330546,vitamin d receptor,157,175,67,23330546,vitamin d,67,157,166,en_ner_jnlpba_md,1000
+23318471,androgen receptor,1764,1781,64,23318471,androgen,64,1764,1772,en_ner_jnlpba_md,1000
+23537500,nmda receptors,669,683,44,23537500,nmda,44,669,673,en_ner_jnlpba_md,1000
+23262164,biotin tags,241,252,71,23262164,biotin,71,241,247,en_ner_jnlpba_md,1000
+23410221,bche,896,900,25,23410221,hpo3,25,888,892,en_ner_jnlpba_md,1000
+23545134,cpf,475,478,100,23545134,cpf,100,475,478,en_ner_jnlpba_md,1000
+23643754,escit,742,747,100,23643754,escit,100,742,747,en_ner_jnlpba_md,1000
+23448346,17β estradiol e2 ,168,186,87,23448346,17β estradiol,87,168,181,en_ner_jnlpba_md,1000
+23109293,nitrate reductase,657,674,58,23109293,nitrate,58,657,664,en_ner_jnlpba_md,1000
+23436706,ca1,19,22,18,23436706,pyrazole,18,23,31,en_ner_jnlpba_md,1000
+23123251,serine esterases,58,74,55,23123251,serine,55,58,64,en_ner_jnlpba_md,1000
+23411313,ct,320,322,25,23411313,tannin,25,312,318,en_ner_jnlpba_md,1000
+23639947,cds cdse,79,87,55,23639947,cds,55,79,82,en_ner_jnlpba_md,1000
+23578391,bde 99,791,797,100,23578391,bde 99,100,791,797,en_ner_jnlpba_md,1000
+23591113,ps 14,544,549,100,23591113,ps 14,100,544,549,en_ner_jnlpba_md,1000
+23454149,dmbt,829,833,100,23454149,dmbt,100,829,833,en_ner_jnlpba_md,1000
+23391424,ppt,1477,1480,100,23391424,ppt,100,1477,1480,en_ner_jnlpba_md,1000
+23159664,n succinyl chitosan,180,199,69,23159664,n succinyl,69,180,190,en_ner_jnlpba_md,1000
+23391424,ppt,553,556,100,23391424,ppt,100,553,556,en_ner_jnlpba_md,1000
+23122125,mn superoxide dismutase,588,611,61,23122125,superoxide,61,591,601,en_ner_jnlpba_md,1000
+23485653,bisphenol a,37,48,100,23485653,bisphenol a,100,37,48,en_ner_jnlpba_md,1000
+23624852,ap 5,1349,1353,100,23624852,ap 5,100,1349,1353,en_ner_jnlpba_md,1000
+23444015,amino acids,1426,1437,100,23444015,amino acids,100,1426,1437,en_ner_jnlpba_md,1000
+23432591,atp synthase,1237,1249,40,23432591,atp,40,1237,1240,en_ner_jnlpba_md,1000
+23420583,al,911,913,100,23420583,al,100,911,913,en_ner_jnlpba_md,1000
+23267661,tac,246,249,100,23267661,tac,100,246,249,en_ner_jnlpba_md,1000
+23159663,acv,1503,1506,100,23159663,acv,100,1503,1506,en_ner_jnlpba_md,1000
+23177786,tazp probe,680,690,57,23177786,tazp,57,680,684,en_ner_jnlpba_md,1000
+23562928,prostaglandin d2,188,204,100,23562928,prostaglandin d2,100,188,204,en_ner_jnlpba_md,1000
+22607101,pva,1079,1082,100,22607101,pva,100,1079,1082,en_ner_jnlpba_md,1000
+23090712,enzymes,655,662,14,23090712,nitrate,14,664,671,en_ner_jnlpba_md,1000
+23625695,ni,618,620,100,23625695,ni,100,618,620,en_ner_jnlpba_md,1000
+22659088,distal c termini,464,480,12,22659088,c,12,471,472,en_ner_jnlpba_md,1000
+22173956,iq,1103,1105,33,22173956,phip,33,1109,1113,en_ner_jnlpba_md,1000
+23219002,regulatory surx subunits,75,99,6,23219002,potassium,6,81,90,en_ner_jnlpba_md,1000
+23454149,dmbt,575,579,100,23454149,dmbt,100,575,579,en_ner_jnlpba_md,1000
+23376438,α zol,195,200,100,23376438,α zol,100,195,200,en_ner_jnlpba_md,1000
+23085120,nmda receptor,454,467,47,23085120,nmda,47,454,458,en_ner_jnlpba_md,1000
+23219887,phe170,983,989,67,23219887,phe,67,983,986,en_ner_jnlpba_md,1000
+23175666,cytochrome p450 3a,60,78,23,23175666,cortisol,23,64,72,en_ner_jnlpba_md,1000
+22294440,ni 2 ,172,177,100,22294440,ni 2 ,100,172,178,en_ner_jnlpba_md,1000
+23214511,n alkyl o arylcarbamates,259,283,100,23214511,n alkyl o arylcarbamates,100,259,283,en_ner_jnlpba_md,1000
+23561073,rac,579,582,100,23561073,rac,100,579,582,en_ner_jnlpba_md,1000
+23352512,glutamyl cyclase,446,462,67,23352512,glutamyl,67,446,454,en_ner_jnlpba_md,1000
+23567961,tyrosine kinases,832,848,67,23567961,tyrosine,67,832,840,en_ner_jnlpba_md,1000
+23017395,hmg coa reductase,106,123,58,23017395,hmg coa,58,106,113,en_ner_jnlpba_md,1000
+23391424,ppt,887,890,67,23391424,ppd,67,879,882,en_ner_jnlpba_md,1000
+23327905,vitextrifolins a g,37,55,100,23327905,vitextrifolins a g,100,37,55,en_ner_jnlpba_md,1000
+23148227,lys 373 382,1197,1208,43,23148227,lys,43,1197,1200,en_ner_jnlpba_md,1000
+23639875,pge2,1205,1209,100,23639875,pge2,100,1205,1209,en_ner_jnlpba_md,1000
+23229509,n terminus,852,862,18,23229509,n,18,852,853,en_ner_jnlpba_md,1000
+23339967,phosphorylated kanamycin b,919,945,100,23339967,phosphorylated kanamycin b,100,919,945,en_ner_jnlpba_md,1000
+23267661,tac,981,984,100,23267661,tac,100,981,984,en_ner_jnlpba_md,1000
+23318471,androgen receptor,1245,1262,64,23318471,androgen,64,1245,1253,en_ner_jnlpba_md,1000
+23171137,propionyl coa,319,332,100,23171137,propionyl coa,100,319,332,en_ner_jnlpba_md,1000
+23159664,n succinyl chitosan,55,74,69,23159664,n succinyl,69,55,65,en_ner_jnlpba_md,1000
+23228175, incarvoid b,86,101,100,23228175, incarvoid b,100,86,101,en_ner_jnlpba_md,1000
+22376270,epi mukulin,886,897,100,22376270,epi mukulin,100,886,897,en_ner_jnlpba_md,1000
+23530057,tyr 319,1116,1123,60,23530057,tyr,60,1116,1119,en_ner_jnlpba_md,1000
+23334083,hydroxyapatite,341,355,100,23334083,hydroxyapatite,100,341,355,en_ner_jnlpba_md,1000
+23479733,lacto n biose i,82,97,100,23479733,lacto n biose i,100,82,97,en_ner_jnlpba_md,1000
+23085120,nmda receptor,583,596,47,23085120,nmda,47,583,587,en_ner_jnlpba_md,1000
+23262271,trans dihydromorin,393,411,100,23262271,trans dihydromorin,100,393,411,en_ner_jnlpba_md,1000
+22173956,iq,1443,1445,33,22173956,phip,33,1450,1454,en_ner_jnlpba_md,1000
+23317098,insulin,1988,1995,14,23317098,glucose,14,1979,1986,en_ner_jnlpba_md,1000
+23588391,amino or carboxyl terminus,223,249,47,23588391,carboxyl,47,232,240,en_ner_jnlpba_md,1000
+23425332,fa rh6g 1 hnss,971,985,78,23425332,fa rh6g 1,78,971,980,en_ner_jnlpba_md,1000
+23017387,glutathione reductase,595,616,69,23017387,glutathione,69,595,606,en_ner_jnlpba_md,1000
+23591113,gaba receptors,600,614,44,23591113,gaba,44,600,604,en_ner_jnlpba_md,1000
+23519881,oil red o,262,271,100,23519881,oil red o,100,262,271,en_ner_jnlpba_md,1000
+23631402,li2sen,1000,1006,100,23631402,li2sen,100,1000,1006,en_ner_jnlpba_md,1000
+23279941,na and k,198,206,22,23279941,k,22,205,206,en_ner_jnlpba_md,1000
+23549423,tio2,1056,1060,100,23549423,tio2,100,1056,1060,en_ner_jnlpba_md,1000
+23122096,fatty acid acyl chains,468,490,81,23122096,fatty acid acyl,81,468,483,en_ner_jnlpba_md,1000
+22659088,ca v2 1,1339,1346,44,22659088,ca,44,1339,1341,en_ner_jnlpba_md,1000
+23261677,skn,1230,1233,100,23261677,skn,100,1230,1233,en_ner_jnlpba_md,1000
+23063876,estrogen receptors,577,595,62,23063876,estrogen,62,577,585,en_ner_jnlpba_md,1000
+23009351,plu paa epi,198,209,43,23009351,plu,43,198,201,en_ner_jnlpba_md,1000
+23237841,2 fluoro moiety,682,698,70,23237841,2 fluoro,70,682,691,en_ner_jnlpba_md,1000
+22521499,cb1,1839,1842,29,22521499,acea,29,1848,1852,en_ner_jnlpba_md,1000
+23352908,pfc5,769,773,100,23352908,pfc5,100,769,773,en_ner_jnlpba_md,1000
+23639875,cox 2,1196,1201,22,23639875,pge2,22,1205,1209,en_ner_jnlpba_md,1000
+23425332,ar2car 2,87,95,100,23425332,ar2car 2,100,87,95,en_ner_jnlpba_md,1000
+23347038,m6p igf2r,915,924,50,23347038,m6p,50,915,918,en_ner_jnlpba_md,1000
+23017395,hmg coa reductase,572,589,58,23017395,hmg coa,58,572,579,en_ner_jnlpba_md,1000
+23339967,3 hydroxyl,1012,1023,100,23339967,3 hydroxyl,100,1012,1023,en_ner_jnlpba_md,1000
+23529650,ag,63,65,100,23529650,ag,100,63,65,en_ner_jnlpba_md,1000
+23428346,xanthine oxidase,1404,1420,67,23428346,xanthine,67,1404,1412,en_ner_jnlpba_md,1000
+23317031,pyrolytic graphite,81,99,62,23317031,graphite,62,91,99,en_ner_jnlpba_md,1000
+23631389,aminoacrylate linker,595,615,79,23631389,aminoacrylate,79,595,608,en_ner_jnlpba_md,1000
+23111283,tsn,651,654,100,23111283,tsn,100,651,654,en_ner_jnlpba_md,1000
+23561216,mag,863,866,100,23561216,mag,100,863,866,en_ner_jnlpba_md,1000
+23561216,ssl,856,859,100,23561216,ssl,100,856,859,en_ner_jnlpba_md,1000
+23159664,novel permeation enhancer,80,105,22,23159664,isosorbide dinitrate,22,81,101,en_ner_jnlpba_md,1000
+23428346,nadph oxidase,1247,1260,56,23428346,nadph,56,1247,1252,en_ner_jnlpba_md,1000
+23591845,dor364 p starved,1155,1171,12,23591845,p,12,1162,1163,en_ner_jnlpba_md,1000
+23519470,threonine 166,1206,1219,82,23519470,threonine,82,1206,1215,en_ner_jnlpba_md,1000
+23219887,amino acid sequences,630,650,67,23219887,amino acid,67,630,640,en_ner_jnlpba_md,1000
+23624852,nicotinic acetylcholine receptors,483,516,57,23624852,acetylcholine,57,493,506,en_ner_jnlpba_md,1000
+23135544,large2,37,43,19,23135544,glucuronic acid,19,38,53,en_ner_jnlpba_md,1000
+23052197,b a p ,1675,1681,91,23052197,b a p,91,1675,1680,en_ner_jnlpba_md,1000
+23296568,he c₆₀,175,181,50,23296568,he,50,175,177,en_ner_jnlpba_md,1000
+23362116,retinoid chaperone,731,749,62,23362116,retinoid,62,731,739,en_ner_jnlpba_md,1000
+23420583,si,820,822,100,23420583,si,100,820,822,en_ner_jnlpba_md,1000
+23545134,cpf,366,369,100,23545134,cpf,100,366,369,en_ner_jnlpba_md,1000
+23579428,neuronal nitric oxide synthase,233,263,57,23579428,nitric oxide,57,242,254,en_ner_jnlpba_md,1000
+22607101,l dopa,1270,1276,100,22607101,l dopa,100,1270,1276,en_ner_jnlpba_md,1000
+23470204,ag,910,912,100,23470204,ag,100,910,912,en_ner_jnlpba_md,1000
+23082005,plasma aldosterone to renin,97,124,58,23082005,aldosterone,58,104,115,en_ner_jnlpba_md,1000
+23354531,nmda,25,29,100,23354531,nmda,100,25,29,en_ner_jnlpba_md,1000
+23271000,sdg,1535,1538,100,23271000,sdg,100,1535,1538,en_ner_jnlpba_md,1000
+23313796,trans gnetin h,672,686,100,23313796,trans gnetin h,100,672,686,en_ner_jnlpba_md,1000
+23358193,amino acids,610,621,100,23358193,amino acids,100,610,621,en_ner_jnlpba_md,1000
+23017394,betulin,137,144,100,23017394,betulin,100,137,144,en_ner_jnlpba_md,1000
+23330546,signaling molecules,15,34,29,23330546,bile acid,29,21,30,en_ner_jnlpba_md,1000
+23557092,pmagp,886,891,100,23557092,pmagp,100,886,891,en_ner_jnlpba_md,1000
+23130659,mpeg pamam,384,394,100,23130659,mpeg pamam,100,384,394,en_ner_jnlpba_md,1000
+23580644,his tag,714,721,60,23580644,his,60,714,717,en_ner_jnlpba_md,1000
+23416700,angiotensin iv receptor,1773,1796,76,23416700,angiotensin iv,76,1773,1787,en_ner_jnlpba_md,1000
+23052197,xpa,1485,1488,25,23052197,b a p,25,1476,1481,en_ner_jnlpba_md,1000
+23455461,ag,228,230,100,23455461,ag,100,228,230,en_ner_jnlpba_md,1000
+23557092,pdsma,462,467,100,23557092,pdsma,100,462,467,en_ner_jnlpba_md,1000
+23584554,c terminus,1075,1085,18,23584554,c,18,1075,1076,en_ner_jnlpba_md,1000
+23375209,c4 ci4 c3 c5 acylcarnitines,1509,1538,100,23375209,c4 ci4 c3 c5 acylcarnitines,100,1509,1538,en_ner_jnlpba_md,1000
+22918703,p21 and,1250,1257,14,22918703,phospho,14,1258,1265,en_ner_jnlpba_md,1000
+23519470,lysine 167,1093,1103,75,23519470,lysine,75,1093,1099,en_ner_jnlpba_md,1000
+23357360,pc,778,780,33,23357360,β cd,33,769,773,en_ner_jnlpba_md,1000
+23518299,glutathione reductase,1196,1217,69,23518299,glutathione,69,1196,1207,en_ner_jnlpba_md,1000
+23148920,ryanodine receptor,814,832,67,23148920,ryanodine,67,814,823,en_ner_jnlpba_md,1000
+23625947,kainate receptors,838,855,58,23625947,kainate,58,838,845,en_ner_jnlpba_md,1000
+23444300,nie,149,152,100,23444300,nie,100,149,152,en_ner_jnlpba_md,1000
+23599124,mn6 complexes,276,289,38,23599124,mn6,38,276,279,en_ner_jnlpba_md,1000
+23305400,monoamine oxidase,981,998,69,23305400,monoamine,69,981,990,en_ner_jnlpba_md,1000
+23530057,tyr 315,674,681,60,23530057,tyr,60,674,677,en_ner_jnlpba_md,1000
+23522793,polκ c terminus,451,466,12,23522793,c,12,456,457,en_ner_jnlpba_md,1000
+23376438,β zol,345,350,80,23376438,α zol,80,336,341,en_ner_jnlpba_md,1000
+23428385,platelet adp receptor,621,642,25,23428385,adp,25,630,633,en_ner_jnlpba_md,1000
+23270514,nitrogen doped graphene,512,535,100,23270514,nitrogen doped graphene,100,512,535,en_ner_jnlpba_md,1000
+23246471,peg b pcl,1474,1483,100,23246471,peg b pcl,100,1474,1483,en_ner_jnlpba_md,1000
+23148920,h 2 s,1266,1271,100,23148920,h 2 s,100,1266,1271,en_ner_jnlpba_md,1000
+23581876,pcbs,383,387,100,23581876,pcbs,100,383,387,en_ner_jnlpba_md,1000
+23546876,hexa histidine tag,833,851,88,23546876,hexa histidine,88,833,847,en_ner_jnlpba_md,1000
+23160931,ti 3d,1035,1040,57,23160931,ti,57,1035,1037,en_ner_jnlpba_md,1000
+23090712,glutamate synthase,1183,1201,67,23090712,glutamate,67,1183,1192,en_ner_jnlpba_md,1000
+23109293,nitrite reductase,953,970,58,23109293,nitrite,58,953,960,en_ner_jnlpba_md,1000
+23623842,superoxide dismutase,984,1004,67,23623842,superoxide,67,984,994,en_ner_jnlpba_md,1000
+23410161,nmda receptor,555,568,47,23410161,nmda,47,555,559,en_ner_jnlpba_md,1000
+23229324,go fc composite,463,478,50,23229324,go fc,50,463,468,en_ner_jnlpba_md,1000
+23313796,lynch pin enzyme,34,50,37,23313796,polyphenols,37,38,49,en_ner_jnlpba_md,1000
+22898212,cbdp,137,141,100,22898212,cbdp,100,137,141,en_ner_jnlpba_md,1000
+23406524,surface amino acids of lipase,421,450,55,23406524,amino acids,55,429,440,en_ner_jnlpba_md,1000
+22918703,phospho akt,717,728,78,22918703,phospho,78,717,724,en_ner_jnlpba_md,1000
+23065140,nmda receptors,1112,1126,44,23065140,nmda,44,1112,1116,en_ner_jnlpba_md,1000
+23432591,atp synthase,673,685,40,23432591,atp,40,673,676,en_ner_jnlpba_md,1000
+23512500,aceroside vii 9 ,310,327,90,23512500,aceroside vii,90,310,323,en_ner_jnlpba_md,1000
+23625947,ampa,829,833,100,23625947,ampa,100,829,833,en_ner_jnlpba_md,1000
+23171137,methyl pyrrolyl acetyl coa,737,763,100,23171137,methyl pyrrolyl acetyl coa,100,737,763,en_ner_jnlpba_md,1000
+23194824,den,1835,1838,100,23194824,den,100,1835,1838,en_ner_jnlpba_md,1000
+23261677,skn,586,589,100,23261677,skn,100,586,589,en_ner_jnlpba_md,1000
+23074026,estrogen receptor,665,682,64,23074026,estrogen,64,665,673,en_ner_jnlpba_md,1000
+23266123,geranylgeranyl tail,545,564,85,23266123,geranylgeranyl,85,545,559,en_ner_jnlpba_md,1000
+23457122,bisphenol a,0,11,100,23457122,bisphenol a,100,9,20,en_ner_jnlpba_md,1000
+23266730,assamsaponin c,491,505,100,23266730,assamsaponin c,100,491,505,en_ner_jnlpba_md,1000
+23391424,ppd,1190,1193,67,23391424,ppt,67,1182,1185,en_ner_jnlpba_md,1000
+23580152,n c20h42 d urea,1072,1087,70,23580152,n c20h42,70,1072,1080,en_ner_jnlpba_md,1000
+23318471,phosphoinositide 3 ,1151,1171,91,23318471,phosphoinositide,91,1151,1167,en_ner_jnlpba_md,1000
+23562928,pgd2,552,556,100,23562928,pgd2,100,552,556,en_ner_jnlpba_md,1000
+23174758,at2,38,41,15,23174758,cyclic amp,15,39,49,en_ner_jnlpba_md,1000
+22287617,mda,1453,1456,100,22287617,mda,100,1453,1456,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,1084,1101,11,23479733,n,11,1090,1091,en_ner_jnlpba_md,1000
+23237706,glutathione reductase,1183,1204,69,23237706,glutathione,69,1183,1194,en_ner_jnlpba_md,1000
+23436706,ca1,704,707,67,23436706,ca4,67,709,712,en_ner_jnlpba_md,1000
+23090712,nitrate reductase,664,681,58,23090712,nitrate,58,664,671,en_ner_jnlpba_md,1000
+23645211,mda,1204,1207,100,23645211,mda,100,1204,1207,en_ner_jnlpba_md,1000
+23436706,a1,15,17,80,23436706,ca1,80,19,22,en_ner_jnlpba_md,1000
+23417972,tio2 cells,602,612,57,23417972,tio2,57,602,606,en_ner_jnlpba_md,1000
+23066089,kainate receptors,0,17,58,23066089,kainate,58,0,7,en_ner_jnlpba_md,1000
+23444015,pams,1341,1345,15,23444015,acetylene,15,1331,1340,en_ner_jnlpba_md,1000
+23410153,receptor tyrosine kinase,380,404,50,23410153,tyrosine,50,389,397,en_ner_jnlpba_md,1000
+23444300,nie,963,966,100,23444300,nie,100,963,966,en_ner_jnlpba_md,1000
+23515291,phosphatidylinositol 3 kinase,1265,1294,82,23515291,phosphatidylinositol,82,1265,1285,en_ner_jnlpba_md,1000
+23406956,malondialdehyde,1254,1269,100,23406956,malondialdehyde,100,1254,1269,en_ner_jnlpba_md,1000
+23624852,nmda receptors,1607,1621,44,23624852,nmda,44,1607,1611,en_ner_jnlpba_md,1000
+22317828,superoxide dismutase,1328,1348,67,22317828,superoxide,67,1328,1338,en_ner_jnlpba_md,1000
+23630169,c60,192,195,100,23630169,c60,100,192,195,en_ner_jnlpba_md,1000
+23631402,li2se,1026,1031,100,23631402,li2se,100,1026,1031,en_ner_jnlpba_md,1000
+23580644,n terminus,740,750,18,23580644,n,18,740,741,en_ner_jnlpba_md,1000
+23546876,c terminus,1206,1216,18,23546876,c,18,1206,1207,en_ner_jnlpba_md,1000
+23518319,hepg2,96,101,18,23518319,silver,18,87,93,en_ner_jnlpba_md,1000
+23183772,si wafers,162,171,36,23183772,si,36,162,164,en_ner_jnlpba_md,1000
+23339967,neomycin b,851,861,100,23339967,neomycin b,100,851,861,en_ner_jnlpba_md,1000
+22727823,gaba,1019,1023,100,22727823,gaba,100,1019,1023,en_ner_jnlpba_md,1000
+23425332,fa rh6g 1,768,777,100,23425332,fa rh6g 1,100,768,777,en_ner_jnlpba_md,1000
+23208951,pva,761,764,100,23208951,pva,100,761,764,en_ner_jnlpba_md,1000
+22287617,superoxide dismutase,1236,1256,67,22287617,superoxide,67,1236,1246,en_ner_jnlpba_md,1000
+23636270,fatty acyl chains,601,618,74,23636270,fatty acyl,74,601,611,en_ner_jnlpba_md,1000
+23444300,znp c3,1548,1554,67,23444300,znp,67,1548,1551,en_ner_jnlpba_md,1000
+23301856,bombesin,9,17,100,23301856,bombesin,100,9,17,en_ner_jnlpba_md,1000
+23376438,β zol,487,492,80,23376438,α zol,80,477,482,en_ner_jnlpba_md,1000
+23210706,ca oh,611,616,57,23210706,oh,57,614,616,en_ner_jnlpba_md,1000
+23448346,estrogen receptor,0,17,64,23448346,estrogen,64,0,8,en_ner_jnlpba_md,1000
+22898212,glu c,697,702,75,22898212,glu,75,697,700,en_ner_jnlpba_md,1000
+23428346,enzyme 3 hydroxy 3 methylglutaryl coenzyme a reductase,30,84,81,23428346,3 hydroxy 3 methylglutaryl coenzyme a,81,37,74,en_ner_jnlpba_md,1000
+22902329,somatostatin receptors,1131,1153,71,22902329,somatostatin,71,1131,1143,en_ner_jnlpba_md,1000
+23552261,ni,573,575,100,23552261,ni,100,573,575,en_ner_jnlpba_md,1000
+23530057,tyr 315,357,364,60,23530057,tyr,60,357,360,en_ner_jnlpba_md,1000
+23109429,n terminus,576,586,18,23109429,n,18,576,577,en_ner_jnlpba_md,1000
+23130659,mpeg pamam,401,411,100,23130659,mpeg pamam,100,401,411,en_ner_jnlpba_md,1000
+23587424,salvinorin a,0,12,100,23587424,salvinorin a,100,0,12,en_ner_jnlpba_md,1000
+23624852,vta n methyl d aspartate receptors,414,448,74,23624852,n methyl d aspartate,74,418,438,en_ner_jnlpba_md,1000
+23357360,pc β cd,766,773,73,23357360,β cd,73,769,773,en_ner_jnlpba_md,1000
+23645536,rat lens aldose reductase,479,504,39,23645536,aldose,39,488,494,en_ner_jnlpba_md,1000
+23347038,wild type m6p igf2r,198,217,27,23347038,m6p,27,208,211,en_ner_jnlpba_md,1000
+23363083,beta hydroxy fatty acid subunit,821,852,85,23363083,beta hydroxy fatty acid,85,821,844,en_ner_jnlpba_md,1000
+23444286,plp,1262,1265,100,23444286,plp,100,1262,1265,en_ner_jnlpba_md,1000
+23537500,nmda receptor,956,969,47,23537500,nmda,47,956,960,en_ner_jnlpba_md,1000
+23643754,escit,928,933,100,23643754,escit,100,928,933,en_ner_jnlpba_md,1000
+23289972,ser 280,1219,1226,60,23289972,ser,60,1219,1222,en_ner_jnlpba_md,1000
+23051835,bisphenol a,0,11,100,23051835,bisphenol a,100,0,11,en_ner_jnlpba_md,1000
+23432591,atp synthase,347,359,40,23432591,atp,40,347,350,en_ner_jnlpba_md,1000
+23383865,h2,1611,1613,100,23383865,h2,100,1611,1613,en_ner_jnlpba_md,1000
+23130659,pamam,422,427,100,23130659,pamam,100,422,427,en_ner_jnlpba_md,1000
+23591113,ps 14,455,460,100,23591113,ps 14,100,455,460,en_ner_jnlpba_md,1000
+23546876,c terminus,809,819,18,23546876,c,18,809,810,en_ner_jnlpba_md,1000
+23219524,cxcl12,21,27,14,23219524,cysteine,14,24,32,en_ner_jnlpba_md,1000
+23643094,ndga,350,354,100,23643094,ndga,100,350,354,en_ner_jnlpba_md,1000
+23357360,β cd,1588,1592,100,23357360,β cd,100,1588,1592,en_ner_jnlpba_md,1000
+23473372,si2h6bh3 complex,143,159,67,23473372,si2h6bh3,67,143,151,en_ner_jnlpba_md,1000
+23318471,xanthine oxidase,968,984,67,23318471,xanthine,67,968,976,en_ner_jnlpba_md,1000
+22580612,receptor tyrosine kinases,435,460,48,22580612,tyrosine,48,444,452,en_ner_jnlpba_md,1000
+23436706,ca1,1050,1053,100,23436706,ca1,100,1050,1053,en_ner_jnlpba_md,1000
+23212442,cd 2 ,1009,1014,100,23212442,cd 2 ,100,1009,1015,en_ner_jnlpba_md,1000
+23368853,zno nanowires,290,303,38,23368853,zno,38,290,293,en_ner_jnlpba_md,1000
+23479733,lacto n biosidase,843,860,11,23479733,n,11,849,850,en_ner_jnlpba_md,1000
+23524315,t 2 toxin,526,535,100,23524315,t 2 toxin,100,526,535,en_ner_jnlpba_md,1000
+23578391,bde 99,366,372,100,23578391,bde 99,100,366,372,en_ner_jnlpba_md,1000
+23237706,cytosolic superoxide dismutase,1086,1116,50,23237706,superoxide,50,1096,1106,en_ner_jnlpba_md,1000
+23470204,ag,945,947,100,23470204,ag,100,945,947,en_ner_jnlpba_md,1000
+23630181,pmf,527,530,100,23630181,pmf,100,527,530,en_ner_jnlpba_md,1000
+22659088,ca v2 1,907,914,44,22659088,ca,44,907,909,en_ner_jnlpba_md,1000
+23314046,thymidine monophosphate kinase,154,184,87,23314046,thymidine monophosphate,87,154,177,en_ner_jnlpba_md,1000
+23347038,m6p igf2r,553,562,50,23347038,m6p,50,553,556,en_ner_jnlpba_md,1000
+23246471,peg b pcl,824,833,100,23246471,peg b pcl,100,824,833,en_ner_jnlpba_md,1000
+23065140,l carnitine,977,988,100,23065140,l carnitine,100,977,988,en_ner_jnlpba_md,1000
